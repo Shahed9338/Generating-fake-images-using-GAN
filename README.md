@@ -22,8 +22,12 @@ Flexibility: The code is adaptable to different datasets and image types, allowi
     5. Train and Fit the GAN Model
     7. Generate the fake images
 
+## Output: 
 
 ![Getting Started](./images/output.png)
+
+## Loss:
+
 ![Getting Started](images/loss.png)
 
 
